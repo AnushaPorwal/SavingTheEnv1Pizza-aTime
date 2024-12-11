@@ -1,0 +1,5 @@
+Entity,emissions_kg_co2eq,water_use_L,land_use_sq_m
+onion,0.5,53.86,0.39
+tomato,2.09,291.67,0.8
+wheat,1.57,648,3.85
+peppers,0.53,362.93,1.24
