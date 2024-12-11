@@ -16,8 +16,8 @@ data/ - contains the cleaned data that was used for the visualization
 dataCleaning/ - jupyter notebooks to clean the raw data
 visualizationExcelMacros/ - contains the Excel Macros file that creates the individual charts to make up the final visualization
 PPTcreationMacros/ - contains the ppt macros file, along with the separate module file
-SavingTheEnvironmentOnePizzaAtATime.pdf - Project Report
-SavingTheEnvironmentOnePizzaAtATime.mp4 - Final Visualization
+Saving the Environment one Pizza at a time.pdf - Project Report
+Saving the Environment one Pizza at a time.mp4 - Final Visualization
 
 
 ## How to use or reproduce the code:
