@@ -5,6 +5,8 @@ Creates a visualization that shows the impact that production of certain crops h
 The crops picked for this visualization are Wheat, Tomatoes, Peppers and Onions.
 The countries picked are India, USA and Egypt.
 
+https://github.com/user-attachments/assets/cc73e4ad-3152-4bea-8ef2-a83915dba510
+
 The data for this project was obtained from:
 1. Hannah Ritchie, Pablo Rosado and Max Roser (2022) - “Environmental Impacts of Food Production” Published online at OurWorldinData.org. Retrieved from: 'https://ourworldindata.org/environmental-impacts-of-food' [Online Resource]
 2. Hannah Ritchie, Pablo Rosado and Max Roser (2022) - “Crop Yields” Published online at OurWorldinData.org. Retrieved from: 'https://ourworldindata.org/crop-yields' [Online Resource]
